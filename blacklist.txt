@@ -1,0 +1,14 @@
+194.169.175.0/24
+EmanuelHosting GB
+
+77.90.185.0/24
+InsideNetwork GB
+
+80.94.95.0/24
+UNMANAGED-LTD GB
+
+45.151.99.0/24
+InsideNetworkLTD-20240723 GB
+
+83.222.190.0/24
+Net_4Media BG
