@@ -1,14 +1,17 @@
 194.169.175.0/24
-EmanuelHosting GB
+#EmanuelHosting GB
 
 77.90.185.0/24
-InsideNetwork GB
+#InsideNetwork GB
 
 80.94.95.0/24
-UNMANAGED-LTD GB
+#UNMANAGED-LTD GB
 
 45.151.99.0/24
-InsideNetworkLTD-20240723 GB
+#InsideNetworkLTD-20240723 GB
 
 83.222.190.0/24
-Net_4Media BG
+#Net_4Media BG
+
+185.132.187.0/24
+#IPXO-DRM-20220919
