@@ -12,3 +12,491 @@
 37.128.204.0/22		#LV-VEESP, 2024-10-22
 119.160.141.0/24	#eSpeed-BN, 2024-10-22
 179.60.149.0/24		#safe-vpn.mobi Nicaragua, 2024-11-11
+84.245.57.0/24		#Prefix Broker Monopoli
+84.245.16.0/20		#Prefix Broker Almere Stad
+84.245.32.0/20		#Prefix Broker Almere Stad
+194.61.40.0/24		#Prefix Broker Mumbai
+194.61.41.0/24		#Prefix Broker Manila
+141.98.16.0/22		#Prefix Broker Nonthaburi
+203.159.81.0/24		#Prefix Broker Tel Aviv
+203.159.92.0/22		#Prefix Broker Nonthaburi
+203.159.90.0/24		#Prefix Broker Amsterdam
+203.159.80.0/24		#Prefix Broker Sorocaba
+193.26.114.0/24		#Prefix Broker Monterrey
+194.76.135.0/24		#Prefix Broker Verona
+194.76.134.0/24		#Prefix Broker Riyadh
+91.190.107.0/24		#Prefix Broker Almere Stad
+45.80.168.0/22		#Prefix Broker Amsterdam
+45.83.4.0/22		#Prefix Broker Amsterdam
+212.80.212.0/22		#Prefix Broker Nonthaburi
+45.92.0.0/24		#Prefix Broker Goeteborg
+45.129.134.0/23		#Prefix Broker Zeuthen
+45.130.200.0/24		#Prefix Broker Goeteborg
+45.141.25.0/24		#Prefix Broker Wolverhampton
+45.140.135.0/24		#Prefix Broker Paris
+45.142.232.0/22		#Prefix Broker Amsterdam
+45.83.188.0/22		#Prefix Broker Amsterdam
+45.83.205.0/24		#Prefix Broker Amsterdam
+45.83.204.0/24		#Prefix Broker Verona
+45.130.116.0/23		#Prefix Broker Verona
+45.131.62.0/24		#Prefix Broker Liege
+45.131.63.0/24		#Prefix Broker Antwerpen
+45.131.60.0/24		#Prefix Broker Amsterdam
+45.136.252.0/22		#Prefix Broker Nonthaburi
+45.137.100.0/22		#Prefix Broker Amsterdam
+45.137.88.0/22		#Prefix Broker Amsterdam
+45.137.204.0/23		#Prefix Broker Amsterdam
+45.137.206.0/24		#Prefix Broker Secaucus
+45.137.207.0/24		#Prefix Broker Amsterdam
+45.138.18.0/24		#Prefix Broker Monopoli
+45.138.52.0/22		#Prefix Broker Amsterdam
+45.139.162.0/24		#Prefix Broker Monopoli
+45.139.252.0/24		#Prefix Broker Reykjavik
+45.139.254.0/23		#Prefix Broker Dublin
+45.140.140.0/22		#Prefix Broker Amsterdam
+45.140.188.0/22		#Prefix Broker Amsterdam
+45.142.16.0/22		#Prefix Broker Amsterdam
+45.142.144.0/22		#Prefix Broker Amsterdam
+45.144.164.0/22		#Prefix Broker Nonthaburi
+45.132.194.0/24		#Prefix Broker Minsk
+45.132.193.0/24		#Prefix Broker New York
+45.137.196.0/23		#Prefix Broker Nieuwegein
+136.144.44.0/22		#Prefix Broker Jeddah
+136.144.42.0/24		#Prefix Broker Washington
+136.144.43.0/24		#Prefix Broker Dallas
+45.83.240.0/22		#Prefix Broker Amsterdam
+45.83.232.0/22		#Prefix Broker Amsterdam
+45.93.150.0/23		#Prefix Broker Dublin
+45.88.187.0/24		#Prefix Broker Jesolo
+45.88.184.0/23		#Prefix Broker Dublin
+45.91.118.0/23		#Prefix Broker Nieuwegein
+45.94.29.0/24		#Prefix Broker Medellin
+45.94.30.0/24		#Prefix Broker Belo Horizonte
+45.85.224.0/22		#Prefix Broker Mexico City
+45.86.248.0/22		#Prefix Broker Mexico City
+45.87.28.0/24		#Prefix Broker Wolverhampton
+45.89.32.0/22		#Prefix Broker Dublin
+45.91.51.0/24		#Prefix Broker Perth
+45.88.246.0/23		#Prefix Broker Dublin
+45.91.132.0/24		#Prefix Broker Nonthaburi
+45.91.133.0/24		#Prefix Broker Nonthaburi
+45.91.134.0/23		#Prefix Broker Nonthaburi
+45.148.27.0/24		#Prefix Broker Arlington
+45.148.25.0/24		#Prefix Broker Vienna
+45.148.96.0/24		#Prefix Broker Porto Alegre
+45.149.2.0/24		#Prefix Broker Berlin
+45.149.3.0/24		#Prefix Broker Capital District
+45.149.1.0/24		#Prefix Broker Monopoli
+45.150.93.0/24		#Prefix Broker Oslo
+45.146.54.0/24		#Prefix Broker San Francisco
+45.146.55.0/24		#Prefix Broker Atlanta
+45.146.53.0/24		#Prefix Broker Paris
+185.227.33.0/24		#Prefix Broker Dublin
+89.251.0.0/24		#Prefix Broker Toronto
+45.154.138.0/24		#Prefix Broker Marseille
+45.154.139.0/24		#Prefix Broker Amsterdam
+45.154.137.0/24		#Prefix Broker Singapore
+45.157.112.0/24		#Prefix Broker Paris
+45.157.98.0/24		#Prefix Broker Stockholm
+45.157.99.0/24		#Prefix Broker New York City
+45.159.246.0/24		#Prefix Broker Los Angeles
+45.141.212.0/23		#Prefix Broker Amsterdam
+45.141.214.0/24		#Prefix Broker Porto Seguro
+45.136.140.0/24		#Prefix Broker Dublin
+45.136.236.0/22		#Prefix Broker Nonthaburi
+45.85.244.0/23		#Prefix Broker Liverpool
+45.85.246.0/24		#Prefix Broker Liverpool
+45.85.247.0/24		#Prefix Broker Amsterdam
+45.150.128.0/22		#Prefix Broker Nonthaburi
+45.153.200.0/22		#Prefix Broker Dublin
+45.152.32.0/24		#Prefix Broker Amsterdam
+45.152.33.0/24		#Prefix Broker Amsterdam
+45.151.252.0/22		#Prefix Broker London
+45.157.128.0/22		#Prefix Broker Dublin
+193.56.116.0/24		#Prefix Broker Atlanta
+193.56.117.0/24		#Prefix Broker Dallas
+45.84.56.0/24		#Prefix Broker Alexandria
+45.84.57.0/24		#Prefix Broker London
+45.84.58.0/24		#Prefix Broker Madrid
+45.85.191.0/24		#Prefix Broker Amsterdam
+45.85.188.0/24		#Prefix Broker Giza
+193.228.225.0/24	#Prefix Broker London
+193.239.146.0/23	#Prefix Broker London
+45.144.227.0/24		#Prefix Broker Taipei
+45.144.224.0/24		#Prefix Broker Mexico City
+45.144.226.0/24		#Prefix Broker London
+45.146.187.0/24		#Prefix Broker London
+45.146.184.0/23		#Prefix Broker Dublin
+193.19.108.0/24		#Prefix Broker New York
+193.19.109.0/24		#Prefix Broker Seattle
+194.5.82.0/24		#Prefix Broker Singapore
+194.5.83.0/24		#Prefix Broker Hong Kong SAR
+194.5.84.0/24		#Prefix Broker Monterrey
+194.242.2.0/24		#Prefix Broker New York
+194.242.3.0/24		#Prefix Broker Queretaro
+45.83.28.0/24		#Prefix Broker New York City
+45.83.29.0/24		#Prefix Broker London
+45.83.30.0/24		#Prefix Broker Newcastle upon Tyne
+45.152.148.0/24		#Prefix Broker Madrid
+91.228.231.0/24		#Prefix Broker Marseille
+91.228.251.0/24		#Prefix Broker Marseille
+91.229.25.0/24		#Prefix Broker Marseille
+45.138.228.0/22		#Prefix Broker Amsterdam
+193.110.134.0/23	#Prefix Broker London
+193.110.160.0/24	#Prefix Broker London
+91.206.168.0/24		#Prefix Broker Buenos Aires
+45.85.88.0/24		#Prefix Broker London
+45.85.89.0/24		#Prefix Broker Sorocaba
+45.86.200.0/24		#Prefix Broker The Hague
+45.86.201.0/24		#Prefix Broker Reykjavik
+45.86.202.0/24		#Prefix Broker Frankfurt am Main
+45.86.203.0/24		#Prefix Broker Coventry
+45.85.124.0/24		#Prefix Broker New York City
+45.133.5.0/24		#Prefix Broker Sydney
+45.133.6.0/24		#Prefix Broker Perth
+45.133.7.0/24		#Prefix Broker Auckland
+45.133.1.0/24		#Prefix Broker Alkmaar
+45.133.0.0/24		#Prefix Broker Santiago
+185.192.16.0/24		#Prefix Broker Dublin
+45.131.228.0/22		#Prefix Broker London
+85.203.34.0/24		#Prefix Broker London
+45.91.20.0/24		#Prefix Broker Milan
+45.91.21.0/24		#Prefix Broker Stockholm
+45.91.22.0/24		#Prefix Broker Paris
+45.90.20.0/22		#Prefix Broker Verona
+136.144.17.0/24		#Prefix Broker Toronto
+136.144.19.0/24		#Prefix Broker Miami
+136.144.26.0/24		#Prefix Broker Frankfurt am Main
+136.144.27.0/24		#Prefix Broker Warsaw
+136.144.33.0/24		#Prefix Broker Los Angeles
+136.144.35.0/24		#Prefix Broker Trenton
+45.130.80.0/24		#Prefix Broker Toronto
+45.130.81.0/24		#Prefix Broker Kiev
+45.130.82.0/24		#Prefix Broker Stockholm
+45.130.83.0/24		#Prefix Broker New York
+45.135.187.0/24		#Prefix Broker Stockholm
+45.135.185.0/24		#Prefix Broker Madrid
+45.85.105.0/24		#Prefix Broker Riga
+185.102.168.0/24	#Prefix Broker Porto Alegre
+185.102.169.0/24	#Prefix Broker Monopoli
+5.180.84.0/22		#Prefix Broker London
+80.94.90.0/24		#Prefix Broker Sorocaba
+80.94.91.0/24		#Prefix Broker Delhi
+185.184.134.0/24	#Prefix Broker Ashburn
+62.100.200.0/22		#Prefix Broker Amsterdam
+45.94.112.0/22		#Prefix Broker Dublin
+45.131.76.0/23		#Prefix Broker Verona
+45.132.115.0/24		#Prefix Broker Dallas
+45.132.113.0/24		#Prefix Broker Miami
+45.131.192.0/24		#Prefix Broker Dallas
+45.131.194.0/24		#Prefix Broker San Francisco
+45.131.195.0/24		#Prefix Broker Secaucus
+193.36.224.0/24		#Prefix Broker Miami
+193.36.225.0/24		#Prefix Broker Los Angeles
+46.244.96.0/24		#Prefix Broker London
+85.203.44.0/24		#Prefix Broker Stockholm
+85.203.47.0/24		#Prefix Broker Copenhagen
+89.39.164.0/24		#Prefix Broker Rome
+85.203.28.0/22		#Prefix Broker Rome
+85.203.20.0/24		#Prefix Broker Zagreb
+85.203.19.0/24		#Prefix Broker Barcelona
+45.145.250.0/24		#Prefix Broker Monopoli
+193.37.32.0/24		#Prefix Broker Singapore
+193.37.33.0/24		#Prefix Broker Seattle
+45.8.16.0/24		#Prefix Broker Singapore
+45.8.17.0/24		#Prefix Broker Amsterdam
+45.8.19.0/24		#Prefix Broker New York City
+2.57.168.0/24		#Prefix Broker Secaucus
+2.57.170.0/24		#Prefix Broker Cosenza
+45.8.25.0/24		#Prefix Broker Jakarta
+45.8.26.0/24		#Prefix Broker Lima
+45.8.71.0/24		#Prefix Broker Copenhagen
+45.67.96.0/24		#Prefix Broker Sydney
+45.67.97.0/24		#Prefix Broker Seoul
+185.192.71.0/24		#Prefix Broker London
+89.47.15.0/24		#Prefix Broker Singapore
+188.212.135.0/24	#Prefix Broker Warsaw
+185.217.117.0/24	#Prefix Broker London
+185.217.119.0/24	#Prefix Broker Strasbourg
+45.84.218.0/24		#Prefix Broker Almere Stad
+45.84.217.0/24		#Prefix Broker Queretaro
+45.92.229.0/24		#Prefix Broker New York City
+45.130.137.0/24		#Prefix Broker Seoul
+45.130.140.0/24		#Prefix Broker Stockholm
+45.130.142.0/24		#Prefix Broker Fortaleza
+45.130.143.0/24		#Prefix Broker Frankfurt am Main
+45.130.141.0/24		#Prefix Broker Melbourne
+45.95.243.0/24		#Prefix Broker Vienna
+45.95.240.0/24		#Prefix Broker Doha
+45.128.198.0/24		#Prefix Broker Singapore
+45.128.199.0/24		#Prefix Broker Amsterdam
+185.205.190.0/24	#Prefix Broker Toronto
+188.240.73.0/24		#Prefix Broker Montreal
+188.240.74.0/24		#Prefix Broker London
+91.217.249.0/24		#Prefix Broker Frankfurt am Main
+91.217.250.0/24		#Prefix Broker London
+45.132.224.0/24		#Prefix Broker Brisbane
+45.132.225.0/24		#Prefix Broker Melbourne
+45.132.226.0/24		#Prefix Broker Opfikon
+45.132.227.0/24		#Prefix Broker Washington
+45.134.20.0/24		#Prefix Broker Sydney
+45.134.22.0/24		#Prefix Broker Cosenza
+193.176.210.0/24	#Prefix Broker Montreal
+194.5.48.0/24		#Prefix Broker Tokyo
+194.5.49.0/24		#Prefix Broker Tampa
+194.5.52.0/24		#Prefix Broker Los Angeles
+194.5.53.0/24		#Prefix Broker Paris
+185.78.164.0/22		#Prefix Broker Nonthaburi
+193.39.215.0/24		#Prefix Broker Seattle
+45.131.248.0/22		#Prefix Broker Dublin
+185.228.225.0/24	#Prefix Broker Coventry
+80.83.91.0/24		#Prefix Broker Madrid
+80.83.92.0/22		#Prefix Broker Auckland
+157.97.120.0/24		#Prefix Broker Copenhagen
+157.97.121.0/24		#Prefix Broker Trenton
+157.97.122.0/24		#Prefix Broker Brussels
+85.203.8.0/24		#Prefix Broker London
+194.59.216.0/22		#Prefix Broker Amsterdam
+31.210.21.0/24		#Prefix Broker Monopoli
+162.12.205.0/24		#Prefix Broker Monopoli
+162.12.204.0/24		#Prefix Broker Sorocaba
+194.99.44.0/23		#Prefix Broker Glostrup
+194.99.46.0/23		#Prefix Broker Glostrup
+185.245.5.0/24		#Prefix Broker Lisbon
+185.245.7.0/24		#Prefix Broker Sydney
+185.239.241.0/24	#Prefix Broker San Francisco
+185.239.243.0/24	#Prefix Broker Chicago
+185.244.139.0/24	#Prefix Broker Panama City
+185.244.137.0/24	#Prefix Broker Houston
+62.100.210.0/24		#Prefix Broker Los Angeles
+185.92.26.0/24		#Prefix Broker Toronto
+193.218.35.0/24		#Prefix Broker Callao
+193.218.32.0/24		#Prefix Broker Cosenza
+37.46.151.0/24		#Prefix Broker Monopoli
+217.74.18.0/24		#Prefix Broker Amsterdam
+217.74.21.0/24		#Prefix Broker Amsterdam
+217.74.22.0/23		#Prefix Broker Amsterdam
+217.74.20.0/24		#Prefix Broker Amsterdam
+217.74.17.0/24		#Prefix Broker Amsterdam
+217.74.16.0/24		#Prefix Broker London
+178.239.198.0/24	#Prefix Broker London
+178.239.204.0/24	#Prefix Broker Coventry
+203.26.81.0/24		#Prefix Broker Prague
+203.25.124.0/24		#Prefix Broker Osaka
+87.247.148.0/22		#Prefix Broker Marseille
+89.33.14.0/24		#Prefix Broker Amsterdam
+89.33.84.0/24		#Prefix Broker Frankfurt am Main
+89.34.126.0/23		#Prefix Broker Melbourne
+89.35.159.0/24		#Prefix Broker Auckland
+89.36.23.0/24		#Prefix Broker Singapore
+89.36.22.0/24		#Prefix Broker Tokyo
+89.37.62.0/24		#Prefix Broker Tokyo
+89.38.70.0/24		#Prefix Broker Madrid
+89.40.160.0/24		#Prefix Broker Amsterdam
+89.44.207.0/24		#Prefix Broker Auckland
+89.46.92.0/24		#Prefix Broker Amsterdam
+93.114.192.0/24		#Prefix Broker Singapore
+93.114.193.0/24		#Prefix Broker Riyadh
+93.114.246.0/24		#Prefix Broker Amsterdam
+93.115.255.0/24		#Prefix Broker Toronto
+93.115.254.0/24		#Prefix Broker New York City
+94.176.110.0/24		#Prefix Broker London
+188.212.132.0/24	#Prefix Broker Tokyo
+188.213.202.0/24	#Prefix Broker Tampa
+188.213.203.0/24	#Prefix Broker Amsterdam
+188.240.68.0/24		#Prefix Broker Zurich
+194.32.120.0/24		#Prefix Broker London
+194.32.122.0/24		#Prefix Broker Vilnius
+194.32.123.0/24		#Prefix Broker Madrid
+212.119.35.0/24		#Prefix Broker Amsterdam
+185.165.45.0/24		#Prefix Broker London
+185.150.1.0/24		#Prefix Broker London
+185.150.0.0/24		#Prefix Broker Singapore
+185.121.120.0/24	#Prefix Broker Miami
+185.121.121.0/24	#Prefix Broker Seattle
+185.121.122.0/24	#Prefix Broker Houston
+185.121.123.0/24	#Prefix Broker San Francisco
+220.158.196.0/23	#Prefix Broker Worthing
+220.158.198.0/24	#Prefix Broker Singapore
+220.158.199.0/24	#Prefix Broker Sydney
+37.0.8.0/24		#Prefix Broker Southampton
+78.142.241.0/24		#Prefix Broker Medellin
+45.154.24.0/22		#Prefix Broker Nonthaburi
+193.34.81.0/24		#Prefix Broker Amsterdam
+193.34.82.0/24		#Prefix Broker Helsinki
+103.212.80.0/23		#Prefix Broker Auckland
+193.38.244.0/24		#Prefix Broker Amsterdam
+193.43.42.0/24		#Prefix Broker Marseille
+89.43.199.0/24		#Prefix Broker New York City
+188.214.27.0/24		#Prefix Broker Amsterdam
+91.240.228.0/24		#Prefix Broker Lagos
+185.21.131.0/24		#Prefix Broker London
+84.54.33.0/24		#Prefix Broker Toronto
+92.119.36.0/24		#Prefix Broker Phoenix
+185.76.150.0/24		#Prefix Broker Marseille
+85.8.130.0/24		#Prefix Broker Seattle
+185.64.78.0/24		#Prefix Broker London
+37.77.58.0/23		#Prefix Broker Dublin
+185.25.104.0/24		#Prefix Broker London
+185.248.135.0/24	#Prefix Broker London
+185.184.219.0/24	#Prefix Broker London
+185.249.53.0/24		#Prefix Broker London
+185.151.144.0/24	#Prefix Broker Toronto
+194.62.107.0/24		#Prefix Broker Singapore
+193.9.124.0/24		#Prefix Broker London
+194.62.16.0/24		#Prefix Broker New York City
+194.26.119.0/24		#Prefix Broker London
+94.247.139.0/24		#Prefix Broker London
+46.226.125.0/24		#Prefix Broker London
+109.234.76.0/24		#Prefix Broker London
+87.236.148.0/24		#Prefix Broker London
+176.118.34.0/24		#Prefix Broker London
+193.35.228.0/24		#Prefix Broker Amsterdam
+193.35.231.0/24		#Prefix Broker Marseille
+185.251.21.0/24		#Prefix Broker Marseille
+79.110.236.0/24		#Prefix Broker New York City
+194.104.239.0/24	#Prefix Broker Marseille
+217.114.39.0/24		#Prefix Broker Toronto
+217.119.142.0/24	#Prefix Broker Marseille
+62.233.52.0/24		#Prefix Broker Marseille
+176.116.11.0/24		#Prefix Broker Marseille
+212.18.124.0/24		#Prefix Broker Marseille
+109.205.190.0/24	#Prefix Broker New York City
+62.3.60.0/24		#Prefix Broker Marseille
+146.19.26.0/24		#Prefix Broker Marseille
+146.19.29.0/24		#Prefix Broker Sydney
+146.19.123.0/24		#Prefix Broker Marseille
+146.19.193.0/24		#Prefix Broker Marseille
+146.19.155.0/24		#Prefix Broker Toronto
+213.109.152.0/24	#Prefix Broker Singapore
+45.91.148.0/24		#Prefix Broker Frankfurt am Main
+178.211.136.0/24	#Prefix Broker Paris
+195.64.108.0/24		#Prefix Broker Paris
+80.68.155.0/24		#Prefix Broker Madrid
+185.198.155.0/24	#Prefix Broker Madrid
+195.64.107.0/24		#Prefix Broker Paris
+195.64.113.0/24		#Prefix Broker Paris
+185.94.66.0/24		#Prefix Broker Miami
+185.94.65.0/24		#Prefix Broker Miami
+130.255.168.0/24	#Prefix Broker Madrid
+185.89.251.0/24		#Prefix Broker Paris
+85.203.13.0/24		#Prefix Broker The Hague
+85.203.15.0/24		#Prefix Broker Frankfurt am Main
+185.198.240.0/24	#Prefix Broker Trenton
+185.198.243.0/24	#Prefix Broker London
+45.157.139.0/24		#Prefix Broker Frankfurt am Main
+185.114.34.0/24		#Prefix Broker Brussels
+45.90.184.0/22		#Prefix Broker Frankfurt am Main
+190.106.64.0/20		#Prefix Broker San Jose
+77.246.245.0/24		#Prefix Broker Porto Seguro
+198.55.28.0/24		#Prefix Broker Toronto
+198.55.29.0/24		#Prefix Broker Brussels
+198.55.30.0/24		#Prefix Broker Copenhagen
+198.55.31.0/24		#Prefix Broker Sydney
+185.161.110.0/24	#Prefix Broker Southampton
+185.161.111.0/24	#Prefix Broker London
+167.160.28.0/24		#Prefix Broker Sydney
+167.160.29.0/24		#Prefix Broker Johannesburg
+167.160.16.0/24		#Prefix Broker Houston
+167.160.17.0/24		#Prefix Broker San Francisco
+167.160.12.0/24		#Prefix Broker Coventry
+107.150.166.0/24	#Prefix Broker Los Angeles
+103.125.76.0/24		#Prefix Broker Miami
+103.125.77.0/24		#Prefix Broker Seattle
+103.125.78.0/24		#Prefix Broker Chicago
+103.125.79.0/24		#Prefix Broker Chicago
+203.188.160.0/22	#Prefix Broker Chennai
+203.188.164.0/24	#Prefix Broker Amsterdam
+203.188.165.0/24	#Prefix Broker Atlanta
+203.188.167.0/24	#Prefix Broker Lisbon
+203.188.168.0/24	#Prefix Broker Seattle
+203.188.169.0/24	#Prefix Broker Tel Aviv
+203.188.170.0/24	#Prefix Broker Tokyo
+203.188.172.0/24	#Prefix Broker Vienna
+14.102.52.0/24		#Prefix Broker Amsterdam
+14.102.53.0/24		#Prefix Broker Amsterdam
+14.102.54.0/24		#Prefix Broker Amsterdam
+14.102.55.0/24		#Prefix Broker Amsterdam
+14.102.60.0/24		#Prefix Broker Atlanta
+14.102.61.0/24		#Prefix Broker Atlanta
+14.102.63.0/24		#Prefix Broker Lisbon
+14.102.84.0/24		#Prefix Broker Tel Aviv
+14.102.85.0/24		#Prefix Broker Tokyo
+14.102.86.0/24		#Prefix Broker Montreal
+14.102.87.0/24		#Prefix Broker Montreal
+118.91.182.0/24		#Prefix Broker Bengaluru
+114.69.238.0/24		#Prefix Broker Bengaluru
+110.172.181.0/24	#Prefix Broker Delhi
+193.142.58.0/24		#Prefix Broker Bucharest
+62.169.128.0/24		#Prefix Broker Montreal
+62.169.129.0/24		#Prefix Broker Toronto
+62.169.130.0/24		#Prefix Broker Toronto
+62.169.131.0/24		#Prefix Broker Toronto
+62.169.135.0/24		#Prefix Broker Vancouver
+212.104.144.0/24	#Prefix Broker Chennai
+212.56.48.0/24		#Prefix Broker Vancouver
+212.56.49.0/24		#Prefix Broker Vienna
+212.56.50.0/24		#Prefix Broker Zurich
+212.56.51.0/24		#Prefix Broker Zurich
+212.56.60.0/22		#Prefix Broker Chennai
+213.254.188.0/22	#Prefix Broker Chennai
+103.61.196.0/24		#Prefix Broker Sydney
+103.61.197.0/24		#Prefix Broker Vienna
+103.61.198.0/24		#Prefix Broker Brussels
+103.61.199.0/24		#Prefix Broker Toronto
+103.138.79.0/24		#Prefix Broker Rome
+103.210.196.0/24	#Prefix Broker London
+103.210.197.0/24	#Prefix Broker Coventry
+103.210.198.0/24	#Prefix Broker Chicago
+103.210.199.0/24	#Prefix Broker Chicago
+92.51.232.0/24		#Prefix Broker Houston
+92.51.233.0/24		#Prefix Broker Houston
+92.51.234.0/24		#Prefix Broker Los Angeles
+92.51.235.0/24		#Prefix Broker Los Angeles
+92.51.236.0/24		#Prefix Broker Miami
+92.51.237.0/24		#Prefix Broker Miami
+92.51.238.0/24		#Prefix Broker New York City
+92.51.239.0/24		#Prefix Broker New York City
+92.51.248.0/24		#Prefix Broker Hong Kong SAR
+92.51.249.0/24		#Prefix Broker Paris
+92.51.250.0/24		#Prefix Broker Frankfurt am Main
+92.51.251.0/24		#Prefix Broker Hong Kong SAR
+92.51.252.0/24		#Prefix Broker Dublin
+92.51.253.0/24		#Prefix Broker Cosenza
+92.51.254.0/24		#Prefix Broker Tokyo
+92.51.255.0/24		#Prefix Broker Amsterdam
+212.78.244.0/24		#Prefix Broker Oslo
+212.78.245.0/24		#Prefix Broker Warsaw
+212.78.246.0/24		#Prefix Broker Lisbon
+212.78.247.0/24		#Prefix Broker Singapore
+212.78.248.0/24		#Prefix Broker Johannesburg
+212.78.249.0/24		#Prefix Broker Madrid
+212.78.250.0/24		#Prefix Broker Stockholm
+212.78.251.0/24		#Prefix Broker Zurich
+84.51.232.0/24		#Prefix Broker London
+84.51.233.0/24		#Prefix Broker Coventry
+84.51.234.0/24		#Prefix Broker Chicago
+84.51.235.0/24		#Prefix Broker Chicago
+103.255.76.0/24		#Prefix Broker New York City
+103.255.77.0/24		#Prefix Broker Houston
+103.213.212.0/24	#Prefix Broker San Francisco
+103.213.213.0/24	#Prefix Broker Seattle
+103.213.214.0/24	#Prefix Broker Brussels
+103.213.215.0/24	#Prefix Broker Denver
+192.140.220.0/24	#Prefix Broker Los Angeles
+192.140.221.0/24	#Prefix Broker Los Angeles
+192.140.222.0/24	#Prefix Broker Miami
+192.140.223.0/24	#Prefix Broker Miami
+170.62.88.0/24		#Prefix Broker Sydney
+170.62.89.0/24		#Prefix Broker Stockholm
+170.62.90.0/24		#Prefix Broker Zurich
+170.62.91.0/24		#Prefix Broker Tokyo
+170.62.92.0/24		#Prefix Broker Paris
+170.62.93.0/24		#Prefix Broker Paris
+170.62.94.0/24		#Prefix Broker Frankfurt am Main
+170.62.95.0/24		#Prefix Broker Singapore
+170.62.160.0/24		#Prefix Broker Los Angeles
+170.62.161.0/24		#Prefix Broker Porto Seguro
+170.62.184.0/22		#Prefix Broker Auckland
+170.62.202.0/24		#Prefix Broker London
+103.198.28.0/22		#Prefix Broker Auckland
