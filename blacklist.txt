@@ -500,3 +500,4 @@
 170.62.184.0/22		#Prefix Broker Auckland
 170.62.202.0/24		#Prefix Broker London
 103.198.28.0/22		#Prefix Broker Auckland
+199.101.196.0/24	#IPXO Private Customer (C10771787)
