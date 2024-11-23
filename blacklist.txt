@@ -5728,3 +5728,4 @@
 92.112.105.0/24		# US US-VA Ashburn
 92.112.104.0/24		# US US-VA Ashburn
 173.239.192.0/18	# LogicWeb bruteforcer
+199.101.196.0/24	# IPXO unlisted in geofeed
