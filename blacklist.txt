@@ -5730,3 +5730,6 @@
 173.239.192.0/18	# LogicWeb bruteforcer
 199.101.196.0/24	# IPXO unlisted in geofeed
 64.64.108.0/24		# LOGICWEB - bruteforcer
+92.255.57.0/24      # CHANG WAY, HK, ruzzian bruteforcer
+92.255.85.0/24      # CHANG WAY, HK, ruzzian bruteforcer
+185.7.214.0/24      # CHANG WAY, HK, ruzzian bruteforcer
