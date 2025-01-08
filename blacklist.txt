@@ -5733,3 +5733,4 @@
 92.255.57.0/24      # CHANG WAY, HK, ruzzian bruteforcer
 92.255.85.0/24      # CHANG WAY, HK, ruzzian bruteforcer
 185.7.214.0/24      # CHANG WAY, HK, ruzzian bruteforcer
+91.199.45.0/24      # GREEN FLOID LLC, ruzzian casinos and botfarms
