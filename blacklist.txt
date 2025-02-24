@@ -5736,3 +5736,4 @@
 91.199.45.0/24      # GREEN FLOID LLC, ruzzian casinos and botfarms
 45.95.233.0/24      # INETTECH-MNT, fuck this new ruzzian botfarm subnet
 82.144.255.170      # test01 SSL-VPN bruteforcer, Link-Connect ADSL GB
+194.165.16.0/23     # Flyservers Panama
