@@ -5739,3 +5739,4 @@
 194.165.16.0/23     # Flyservers Panama
 183.82.0.230        # Bye Indian bruteforcer
 195.82.147.8        # russian warship GFY
+38.146.27.151       # hello you idiot
