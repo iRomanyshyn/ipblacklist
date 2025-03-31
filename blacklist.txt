@@ -5740,6 +5740,10 @@
 183.82.0.230        # Bye Indian bruteforcer
 195.82.147.8        # russian warship GFY
 38.146.27.151       # hello you idiot
-92.119.197.0/24     # VSVK-MNT NL bruteforcer
-87.120.126.0/24     # VSVK-MNT NL bruteforcer
-
+87.120.126.0/24     # VSVK NETWORK bruteforce
+87.120.127.0/24     # VSVK NETWORK bruteforce
+87.121.18.0/24      # Neterra Ltd. bruteforce
+92.119.196.0/24     # VSVK NETWORK bruteforce
+92.119.197.0/24     # VSVK NETWORK bruteforce
+94.156.167.0/24     # VSVK NETWORK bruteforce
+94.156.92.0/24      # Neterra Ltd. bruteforce
