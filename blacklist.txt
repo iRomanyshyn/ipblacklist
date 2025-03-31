@@ -5740,3 +5740,6 @@
 183.82.0.230        # Bye Indian bruteforcer
 195.82.147.8        # russian warship GFY
 38.146.27.151       # hello you idiot
+92.119.197.0/24     # VSVK-MNT NL bruteforcer
+87.120.126.0/24     # VSVK-MNT NL bruteforcer
+
