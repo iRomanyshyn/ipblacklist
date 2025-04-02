@@ -5747,3 +5747,4 @@
 92.119.197.0/24     # VSVK NETWORK bruteforce
 94.156.167.0/24     # VSVK NETWORK bruteforce
 94.156.92.0/24      # Neterra Ltd. bruteforce
+41.239.93.231/32    # bruteforce freelancer from Egypt?
