@@ -5748,3 +5748,4 @@
 94.156.167.0/24     # VSVK NETWORK bruteforce
 94.156.92.0/24      # Neterra Ltd. bruteforce
 41.239.93.231/32    # bruteforce freelancer from Egypt?
+197.37.167.34/32    # wow, another one IP from Egypt
