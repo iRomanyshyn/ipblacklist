@@ -5754,4 +5754,17 @@
 185.156.73.0/24     # Some fuckers from	Ukraine, LIMITED LIABILITY COMPANY E-SOLUTION (E-SOLUTION LLC),	giving VPS to russians
 185.156.74.0/24     # Some fuckers from	Ukraine, LIMITED LIABILITY COMPANY E-SOLUTION (E-SOLUTION LLC),	giving VPS to russians
 185.193.88.0/24     # Some fuckers from	Ukraine, LIMITED LIABILITY COMPANY E-SOLUTION (E-SOLUTION LLC),	giving VPS to russians
-41.232.72.0/24      # Telecom Egypt, bruteforce
+41.32.0.0/12	# Telecom Egypt
+41.232.0.0/13	# Telecom Egypt
+45.85.188.0/24	# Telecom Egypt
+81.10.0.0/17	# Telecom Egypt
+102.40.0.0/13	# Telecom Egypt
+154.176.0.0/12	# Telecom Egypt
+156.192.0.0/11	# Telecom Egypt
+163.121.128.0/17	 # Telecom Egypt
+185.187.178.0/24	 # Telecom Egypt
+196.202.0.0/17	 # Telecom Egypt
+196.218.0.0/15	 # Telecom Egypt
+197.32.0.0/11	 # Telecom Egypt
+212.103.160.0/19	 # Telecom Egypt
+213.158.160.0/19	 # Telecom Egypt
