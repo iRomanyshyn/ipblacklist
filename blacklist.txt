@@ -5754,3 +5754,4 @@
 185.156.73.0/24     # Some fuckers from	Ukraine, LIMITED LIABILITY COMPANY E-SOLUTION (E-SOLUTION LLC),	giving VPS to russians
 185.156.74.0/24     # Some fuckers from	Ukraine, LIMITED LIABILITY COMPANY E-SOLUTION (E-SOLUTION LLC),	giving VPS to russians
 185.193.88.0/24     # Some fuckers from	Ukraine, LIMITED LIABILITY COMPANY E-SOLUTION (E-SOLUTION LLC),	giving VPS to russians
+41.232.72.0/24      # Telecom Egypt, bruteforce
