@@ -1,6 +1,5 @@
 # This is a blacklist of IP addresses. These addresses belong to networks used by russian troll farms and other criminal activities.
 # Its format may be changed without notofication.
-
 194.169.175.0/24	#EmanuelHosting GB, 2024-10-17
 77.90.185.0/24		#InsideNetwork GB, 2024-10-17
 80.94.95.0/24		#UNMANAGED-LTD GB, 2024-10-17
