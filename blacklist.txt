@@ -53,3 +53,4 @@
 213.158.160.0/19	 # Telecom Egypt
 93.159.11.38		# Unknown from PL
 185.53.134.127		# Unknown IPsec from PL
+165.231.0.0/16		# Unknown African subnet, bruteforce from 165.231.182.145, we don't need them
