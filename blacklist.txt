@@ -54,3 +54,4 @@
 93.159.11.38		# Unknown from PL
 185.53.134.127		# Unknown IPsec from PL
 165.231.0.0/16		# Unknown African subnet, bruteforce from 165.231.182.145, we don't need them
+212.18.104.0/24		# russians are trying their best
