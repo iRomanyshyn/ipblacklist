@@ -55,5 +55,5 @@
 185.53.134.127		# Unknown IPsec from PL
 165.231.0.0/16		# Unknown African subnet, bruteforce from 165.231.182.145, we don't need them
 212.18.104.0/24		# russians are trying their best
-45.227.254.0/24		# Belize, breute force attacks
-
+45.227.254.0/24		# Belize, brute force attacks
+77.91.118.0/24		# LexistarAllianceLTD US, rent by Sergey A. Miroshkin mockba
