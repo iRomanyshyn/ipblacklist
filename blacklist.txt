@@ -57,3 +57,5 @@
 212.18.104.0/24		# russians are trying their best
 45.227.254.0/24		# Belize, brute force attacks
 77.91.118.0/24		# LexistarAllianceLTD US, rent by Sergey A. Miroshkin mockba
+94.26.68.0/22		# BG-TELCO-20080611, russian bot farm
+
